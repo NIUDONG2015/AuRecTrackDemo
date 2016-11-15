@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Winsion\10.13\AudioProcessDemo1\app\src\main\jniLibs"><file name="armeabi-v7a/libaudio_process.so" path="D:\Winsion\10.13\AudioProcessDemo1\app\src\main\jniLibs\armeabi-v7a\libaudio_process.so"/></source></dataSet><dataSet config="debug"><source path="D:\Winsion\10.13\AudioProcessDemo1\app\src\debug\jniLibs"/></dataSet></merger>
